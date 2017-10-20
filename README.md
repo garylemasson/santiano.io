@@ -1,8 +1,8 @@
 # santiano.io - Web GTM Container
 
-Date : 20/10/2017
-Current version : 0.999
-Version Goal : Have other webanalysts play with it at the MeasureCamp Brussels 2017
+- Date : 20/10/2017
+- Current version : 0.999
+- Version Goal : Have other webanalysts play with santiano.io at the MeasureCamp Brussels 2017
 
 ________________________________
 GETTING STARTED WITH SANTIANO.IO
@@ -54,6 +54,6 @@ Copyright 2017 Santiano Consulting SAS (santiano.io)
    See the License for the specific language governing permissions and
    limitations under the License.
 
-##########################################
+__________________________________________
 MAY THE FORCE OF THE DATALAYER BE WITH YOU
-##########################################
+__________________________________________
