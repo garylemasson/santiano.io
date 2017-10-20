@@ -8,19 +8,21 @@ GETTING STARTED WITH SANTIANO.IO
 
 Import the santiano.io JSON GTM CONTAINER into your Google Tag Manager Dev Environment
 In variables :
-	Edit the list of authorizedDomainNamesList
-	Edit gaUaProd
-	Edit gaUaDev
+- Edit the list of authorizedDomainNamesList
+- Edit gaUaProd
+- Edit gaUaDev
+
 Publish your Container
-	Thank you :)
+- Thank you :)
 
 To get more help integrating santiano.io to your Website, please visit http://santiano.io
 
 the new version of the website is under development with a full documentation to help you integrate it. 
-	Meanwhile if you're in a hurry and need help... 
-		Twitter : https://twitter.com/garylemasson
-	If you want to contribute or report any issue you might find... the project is here!
-		Github https://github.com/garylemasson/santiano.io
+Meanwhile if you're in a hurry and need help... 
+- Twitter : https://twitter.com/garylemasson
+
+If you want to contribute or report any issue you might find... the project is here!
+- Github https://github.com/garylemasson/santiano.io
 
 
 CHANGELOG
