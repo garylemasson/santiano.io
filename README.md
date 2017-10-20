@@ -13,7 +13,7 @@ In variables :
 - Edit gaUaProd
 - Edit gaUaDev
 
-Publish your Container
+- Publish your Container
 - Thank you :)
 
 To get more help integrating santiano.io to your Website, please visit http://santiano.io
