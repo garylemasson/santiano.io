@@ -1,17 +1,8 @@
 # santiano.io - Web GTM Container
 
-                 _   _                    _       
-                | | (_)                  (_)      
- ___  __ _ _ __ | |_ _  __ _ _ __   ___   _  ___  
-/ __|/ _` | '_ \| __| |/ _` | '_ \ / _ \ | |/ _ \ 
-\__ \ (_| | | | | |_| | (_| | | | | (_) || | (_) |
-|___/\__,_|_| |_|\__|_|\__,_|_| |_|\___(_)_|\___/ 
-                                                  
-                                              
-
+Date : 20/10/2017
 Current version : 0.999
 Version Goal : Have other webanalysts play with it at the MeasureCamp Brussels 2017
-
 
 GETTING STARTED WITH SANTIANO.IO
 
